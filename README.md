@@ -1,3 +1,3 @@
 ### Terminal Linux 1rst home work
-* create, move. remove dolder folders
+* create, move, remove folders
 * skript
